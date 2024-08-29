@@ -1,5 +1,14 @@
 Autor: Walter Rene Rosales
 
+Instalacion:
+Luego de descargar o dar git pull al proyecto 
+en consola dentro de la carpeta PintoresColaborativos/ 
+ejecutar dotnet run 
+y se ejecutara el proyecto 
+
+
+
+
 SIMULACION DE EXCLUSION MUTUA 
 
     Semáforo Binario: Se utiliza para asegurar que solo un pintor pueda acceder a una celda a la vez en modo de exclusión mutua.
