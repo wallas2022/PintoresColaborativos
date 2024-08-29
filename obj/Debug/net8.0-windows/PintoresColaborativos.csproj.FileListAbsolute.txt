@@ -1,0 +1,14 @@
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\bin\Debug\net8.0-windows\PintoresColaborativos.exe
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\bin\Debug\net8.0-windows\PintoresColaborativos.deps.json
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\bin\Debug\net8.0-windows\PintoresColaborativos.runtimeconfig.json
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\bin\Debug\net8.0-windows\PintoresColaborativos.dll
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\bin\Debug\net8.0-windows\PintoresColaborativos.pdb
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\PintoresColaborativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\PintoresColaborativos.AssemblyInfoInputs.cache
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\PintoresColaborativos.AssemblyInfo.cs
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\PintoresColaborativos.csproj.CoreCompileInputs.cache
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\PintoresColaborativos.dll
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\refint\PintoresColaborativos.dll
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\PintoresColaborativos.pdb
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\PintoresColaborativos.genruntimeconfig.cache
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\ref\PintoresColaborativos.dll
