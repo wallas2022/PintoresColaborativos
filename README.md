@@ -1,3 +1,5 @@
+Autor: Walter Rene Rosales
+
 SIMULACION DE EXCLUSION MUTUA 
 
     Semáforo Binario: Se utiliza para asegurar que solo un pintor pueda acceder a una celda a la vez en modo de exclusión mutua.
