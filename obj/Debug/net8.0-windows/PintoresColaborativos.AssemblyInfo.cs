@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PintoresColaborativos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa1caea7197c0f02ca25682049ea32d8b1759e21")]
 [assembly: System.Reflection.AssemblyProductAttribute("PintoresColaborativos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PintoresColaborativos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

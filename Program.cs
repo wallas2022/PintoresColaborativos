@@ -176,7 +176,7 @@ namespace SimulacionExclusionMutua
                     }
                     else
                     {
-                        lblEstado.Text = $"Conflicto: Celda [{fila},{columna}] ya está ocupada por {celda.Text}";
+                        lblEstado.Text = $"Conflicto: Celda [{fila},{columna}] ya está ocupada por {celda.Text} con el pintor {pintor}";
                         lblEstado.BackColor = Color.LightPink;
                     }
                 }
@@ -196,8 +196,8 @@ namespace SimulacionExclusionMutua
                 {
                     if (random.Next(0, 10) < 2) // 20% de probabilidad de interbloqueo
                     {
-                        lblEstado.Text = "Interbloqueo detectado: Varios pintores intentan pintar la misma celda.";
-                        lblEstado.BackColor = Color.Red;
+                        lblEstado.Text = "Interbloqueo detectado: Varios pintores intentan pintar la misma celda. ";
+                        lblEstado.BackColor = Color.Yellow;
                     }
                     else if (random.Next(0, 10) < 3) // 30% de probabilidad de inanición
                     {

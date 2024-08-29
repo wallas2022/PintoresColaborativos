@@ -12,3 +12,4 @@ C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Opera
 C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\PintoresColaborativos.pdb
 C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\PintoresColaborativos.genruntimeconfig.cache
 C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\ref\PintoresColaborativos.dll
+C:\Users\Wallas\Documents\WR\Universidad\Cursos\2024\2DO SEMESTRE\Sistemas Operativos\codigo\PintoresColaborativos\obj\Debug\net8.0-windows\PintoresColaborativos.sourcelink.json
