@@ -17,7 +17,7 @@ namespace SimulacionExclusionMutua
         private int columnas = 5;
         private bool exclusionMutua = true;
         private Random random = new Random();
-        private SemaphoreSlim semaforoBinario = new SemaphoreSlim(1, 1); // Semáforo binario
+        private SemaphoreSlim semaforoBinario = new SemaphoreSlim(1, 1); // Semáforo binarioX|
         private Color[] colores = { Color.LightBlue, Color.LightGreen, Color.LightYellow, Color.LightSlateGray };
 
         public FormularioPintores()
